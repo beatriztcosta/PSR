@@ -1,6 +1,8 @@
+#!/usr/bin/python3
+
 from colorama import Fore, Back, Style
 
-maximum_number = 100
+maximum_number = 101
 
 
 def isPrime(value):
